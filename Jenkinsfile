@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Hello from Jenkinsfile pipeline!'
-                echo 'Mahitha - AI123'
+                echo 'Mahitha Siri - AI066'
             }
         }
     }
